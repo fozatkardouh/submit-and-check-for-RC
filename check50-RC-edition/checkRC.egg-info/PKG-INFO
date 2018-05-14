@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: checkRC
+Version: 2.2.2
+Summary: This is check50, with which you can check solutions to problems for CS50.
+Home-page: https://github.com/RefugeesCodeAT/check50-RC-edition
+Author: Fozat
+Author-email: fozatkardouh@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: check50,checkRC
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Education
+Classifier: Topic :: Utilities

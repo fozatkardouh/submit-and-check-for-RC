@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: submitRC
+Version: 2.4.7
+Summary: This is submitRC, with which you can submit solutions to problems for submitRC.
+Home-page: https://github.com/RefugeesCodeAT/submitRC
+Author: Fozat
+Author-email: fozatkardouh@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: submitRC,submitRC
+Platform: UNKNOWN
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Education
+Classifier: Topic :: Utilities

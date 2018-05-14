@@ -1,0 +1,9 @@
+argparse
+bs4
+pexpect
+requests
+backports.shutil_which
+six
+termcolor
+submitRC>=2.4.5
+submit50>=2.4.5

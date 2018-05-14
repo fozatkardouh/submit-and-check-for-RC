@@ -1,0 +1,7 @@
+submitRC.py
+submitRC.egg-info/PKG-INFO
+submitRC.egg-info/SOURCES.txt
+submitRC.egg-info/dependency_links.txt
+submitRC.egg-info/entry_points.txt
+submitRC.egg-info/requires.txt
+submitRC.egg-info/top_level.txt

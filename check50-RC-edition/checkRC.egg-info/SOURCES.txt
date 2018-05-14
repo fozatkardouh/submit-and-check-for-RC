@@ -1,0 +1,8 @@
+checkRC.py
+config.py
+checkRC.egg-info/PKG-INFO
+checkRC.egg-info/SOURCES.txt
+checkRC.egg-info/dependency_links.txt
+checkRC.egg-info/entry_points.txt
+checkRC.egg-info/requires.txt
+checkRC.egg-info/top_level.txt
